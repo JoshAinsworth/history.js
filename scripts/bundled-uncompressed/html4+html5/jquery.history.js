@@ -1289,7 +1289,7 @@ if (typeof JSON !== 'object') {
 
 	// Check Existence
 	if ( typeof History.init !== 'undefined' ) {
-		console.log'History.js Core has already been loaded...');
+		console.log('History.js Core has already been loaded...');
 		return;
 	}
 
